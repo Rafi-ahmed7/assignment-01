@@ -156,6 +156,32 @@ header h1 {
   padding-right: 20px;
   margin-bottom:50px ;
 }
+.part-5{
+  line-height: center;
+  text-align: center;
+  margin-bottom: 20px;}
 
+  .part-6{
+    margin-top: 20px;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-bottom: 20px;
+  }
+
+ 
+  /* Set styles for the video container */
+  .video-container {
+    margin-left: 170px;
+    width: 65%;
+    border: #e1e5f0;
+    padding-left: 35px;
+    
+    padding-top: 35px;
+    border-radius:10px ;
+    -webkit-border-radius:10px ;
+    border-style: groove;
+}
+
+  
 
 
