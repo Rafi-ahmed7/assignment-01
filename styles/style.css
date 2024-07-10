@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.azeret-mono{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+   
+    font-style: normal;
+  }
+  
+  .container {
+    width: 80%;
+    margin: auto;
+
+    
+}
+
+.header {
+  margin-top:30px ;
+  margin-bottom: 30px;
+  padding-top: 30px;
+  min-height: 70px;
+
+}
+
+.header a {
+   
+  text-decoration: none;
+
+  
+}
+header h1 {
+  float: left;}
+
+  header .btn {
+    float: right;
+    padding: 17px 24px;
+    background:white;
+    color: #0D1321;
+    border-radius: 8px;
+    width: 114px;
+    height: 15px;
+    
+    
+}
+
+
+.hero{
+
+  background-image:url(../assets/Hero-bg.png);
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  width: 100%;
+  
+ 
+ 
+
+
+}
+.img-2{
+  text-align: center !important;  
+  line-height: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.title{
+  color:#0D1321 ;
+  font-weight: bolder;
+  font-size: 48px;
+}
+.content{
+  color: #0D1321;
+  font-size: 16px;
+  font-weight: regular;
+  margin-bottom: 10px;
+}
+
+.button{
+  margin-top: 20px;
+  text-align: center;
+  line-height: center;
+}
+  .contact-button {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    text-decoration: none; /* removes underline from text */
+    font-size: 16px;
+    
+}
