@@ -124,7 +124,7 @@ header h1 {
   margin-right: 160px;
   padding-left: 20px;
   padding-right: 20px;
-  margin-bottom:30px ;
+  margin-bottom:50px ;
   
   
 }
@@ -137,7 +137,7 @@ header h1 {
   margin-right: 160px;
   padding-left: 20px;
   padding-right: 20px;
-  margin-bottom:30px ;
+  margin-bottom:50px ;
 }
 .content-3{
    margin-left: 100px;
@@ -146,6 +146,15 @@ header h1 {
 
 .web-pic-2{
   margin-top: 70px;
+}
+.part-3{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 160px;
+  margin-right: 160px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom:50px ;
 }
 
 
