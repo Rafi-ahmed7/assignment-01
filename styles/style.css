@@ -327,4 +327,43 @@ header h1 {
 .mongo-content{
   margin-top: 35px;
 }
+
+.hand-shake{
+  background-image: url(../assets/handshake.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 314px;
+  width: 1140px;
+  margin-bottom: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+ 
+}
+.need-support{
+  text-align: center;
+  line-height: center;
+  color: #e1e5f0;
+  margin-top: 45px;
+}
+.peralast{
+
+  text-align: center;
+  line-height: center;
+  margin-top: 50px;
+}
+
+.feedback{
+  margin-top: 50px;
+  text-align: center;
+  line-height: center;
+ 
+}
+.com-last{
+  display: flex;
+  justify-content: space-between;
+}
+
+.part200{
+       margin-left: 200px;
 }
