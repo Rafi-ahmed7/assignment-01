@@ -13,14 +13,19 @@
   
   .container {
     width: 80%;
-    margin: auto;
+    margin:auto;
+    
 
     
 }
+.resume {
+  
+}
 
 .header {
+  display: flex;
   margin-top:30px ;
-  margin-bottom: 30px;
+  margin-bottom: 100px;
   padding-top: 30px;
   min-height: 70px;
 
@@ -32,20 +37,9 @@
 
   
 }
-header h1 {
-  float: left;}
 
-  header .btn {
-    float: right;
-    padding: 17px 24px;
-    background:white;
-    color: #0D1321;
-    border-radius: 8px;
-    width: 114px;
-    height: 15px;
-    
-    
-}
+
+ 
 
 
 .hero{
@@ -53,7 +47,7 @@ header h1 {
   background-image:url(../assets/Hero-bg.png);
   background-size: cover;
   background-position: center;
-  height: 700px;
+  height: 600px;
   width: 100%;
   margin-bottom: 20px;
   
@@ -78,7 +72,7 @@ header h1 {
   color: #0D1321;
   font-size: 16px;
   font-weight: regular;
-  margin-bottom: 10px;
+  margin-bottom: 50px;
   margin-left: 20px;
   margin-right: 20px;
  
@@ -199,6 +193,8 @@ header h1 {
 .part-7{
 
   display: flex;
+  margin-left: 150px;
+  margin-right: 100px;
 }
 
 .part-10{
@@ -350,11 +346,11 @@ header h1 {
 
   text-align: center;
   line-height: center;
-  margin-top: 50px;
+  margin-top: 35px;
 }
 
 .feedback{
-  margin-top: 50px;
+  margin-top: 20px;
   text-align: center;
   line-height: center;
  
@@ -362,8 +358,34 @@ header h1 {
 .com-last{
   display: flex;
   justify-content: space-between;
+  margin-top: 80px;
 }
 
 .part200{
        margin-left: 200px;
 }
+
+.btn-primary{
+  border:1px solid #000; 
+  text-decoration: none;
+  color: #000;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.btn-1111{
+  
+  border:1px solid #000; 
+  text-decoration: none;
+  color: #000;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+ 
+}
+.social-icons{
+  margin-right: 200px;
+}
+
