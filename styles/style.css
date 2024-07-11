@@ -182,15 +182,59 @@ header h1 {
     border-style: groove;
     margin-bottom: 30px;
 }
-.part-7{
+.part-20{
+  margin-bottom: 70px;
+}
+.part-8{
   text-align: center;
   line-height: center;
-  margin-bottom: 30px;
 }
   
 .part-9{
-  margin-left: 50px;
+  margin-left: 150px;
   margin-right: 50px;
+  padding-left: 40px;
 }
 
+.part-7{
+
+  display: flex;
+}
+
+.part-10{
+  width: 364px;
+  height: 300px;
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  padding-right: 40px;
+  margin: 20px;
+  background-color:rgb(236, 218, 218);
+  border-radius: 16;
+  -webkit-border-radius: 7%;
+ 
+}
+.part-11{
+  width: 364px;
+  height: 300px;
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  padding-right: 40px;
+  margin: 20px;
+  background-color: rgb(216, 216, 216);
+  border-radius: 16;
+  -webkit-border-radius: 7%;
+}
+.part-12{
+  width: 364px;
+  height: 300px;
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  padding-right: 40px;
+  margin: 20px;
+  background-color:rgb(236, 218, 218);
+  border-radius: 16;
+  -webkit-border-radius: 7%;
 
